@@ -1,0 +1,15 @@
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/bin/Debug/net7.0/SocketClient
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/bin/Debug/net7.0/SocketClient.deps.json
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/bin/Debug/net7.0/SocketClient.runtimeconfig.json
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/bin/Debug/net7.0/SocketClient.dll
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/bin/Debug/net7.0/SocketClient.pdb
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/SocketClient.csproj.AssemblyReference.cache
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/SocketClient.AssemblyInfoInputs.cache
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/SocketClient.AssemblyInfo.cs
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/SocketClient.csproj.CoreCompileInputs.cache
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/SocketClient.dll
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/refint/SocketClient.dll
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/SocketClient.pdb
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/SocketClient.genruntimeconfig.cache
+/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/Debug/net7.0/ref/SocketClient.dll

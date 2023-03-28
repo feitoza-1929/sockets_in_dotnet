@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ipQzrTABjKPDz9MG3C60Y4AriSxrtUaM6szJcSoiqjsJgwwL/AH67ZHdeOQdbBfIA6+InNtqN8Ox/tuicoyJQ==",
+  "dgSpecHash": "MqIGBRtDKWsWhcz9BemdzGpccx3G4ePplvuRP8f0+LsP/eX/83CfD2gHOctigppKNtJFz4ldC6EO1oUBYJtuqg==",
   "success": true,
-  "projectFilePath": "/home/feitoza/Study/OOP/dotnet/SocketClient/SocketClient.csproj",
+  "projectFilePath": "/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/SocketClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

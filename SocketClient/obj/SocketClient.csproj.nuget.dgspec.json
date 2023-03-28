@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/feitoza/Study/OOP/dotnet/SocketClient/SocketClient.csproj": {}
+    "/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/SocketClient.csproj": {}
   },
   "projects": {
-    "/home/feitoza/Study/OOP/dotnet/SocketClient/SocketClient.csproj": {
+    "/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/SocketClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/feitoza/Study/OOP/dotnet/SocketClient/SocketClient.csproj",
+        "projectUniqueName": "/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/SocketClient.csproj",
         "projectName": "SocketClient",
-        "projectPath": "/home/feitoza/Study/OOP/dotnet/SocketClient/SocketClient.csproj",
+        "projectPath": "/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/SocketClient.csproj",
         "packagesPath": "/home/feitoza/.nuget/packages/",
-        "outputPath": "/home/feitoza/Study/OOP/dotnet/SocketClient/obj/",
+        "outputPath": "/home/feitoza/Study/OOP/dotnet/learning_sockets/SocketClient/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/feitoza/.nuget/NuGet/NuGet.Config"
